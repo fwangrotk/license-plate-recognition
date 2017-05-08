@@ -18,3 +18,5 @@
   Method 2: Templates matching (Chinese characters)
  
   Recognizing
+
+https://docs.google.com/presentation/d/1sLBOKddmoAnwRst-Rg-LvG0FJ_9JCV8ObU4DJMNLwS8/edit?usp=sharing
